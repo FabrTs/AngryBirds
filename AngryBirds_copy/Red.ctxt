@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ Click()
+comment1.params=
+comment1.target=Red()
+comment2.params=
+comment2.target=double\ calcAngle()
+comment3.params=
+comment3.target=int\ calcDistance()
+comment4.params=
+comment4.target=void\ addClouds()
+comment5.params=x
+comment5.target=double\ altura(double)
+comment6.params=
+comment6.target=void\ Todo()
+comment7.params=
+comment7.target=void\ otroTodo()
+comment8.params=
+comment8.target=void\ act()
+numComments=9

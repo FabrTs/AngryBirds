@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fondo()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=public\ void\ dibujar(double\ PX)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ int\ X\=(int)PX;\r\n\ \ \ \ \ \ \ \ Visible.clear();\r\n\ \ \ \ \ \ \ \ Visible.drawImage(Fondo,-X,0);\r\n\ \ \ \ \ \ \ \ setBackground(Visible);\r\n}
+numComments=2
